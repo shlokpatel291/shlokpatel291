@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shlokpatel291
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently a IT student at SVIT,Vasad
 - 📫 To reach me mail me at shlokpatel132@gmail.com
 
 <!---
