@@ -2,6 +2,7 @@
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently a IT student at SVIT,Vasad
 - 📫 To reach me mail me at shlokpatel132@gmail.com
+-  To know more about me visit https://shlokpatel291.github.io/shlokpatel/
 
 <!---
 shlokpatel291/shlokpatel291 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
